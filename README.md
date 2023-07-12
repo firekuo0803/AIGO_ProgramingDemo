@@ -1,5 +1,5 @@
 # AIGO_ProgramingDemo  
-Vision_Measure"  
+  
 這是AIGO作品的DEMO程式  
   
 2.py影片拆幀程式  
