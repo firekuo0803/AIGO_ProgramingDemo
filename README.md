@@ -1,6 +1,6 @@
 # AIGO_ProgramingDemo  
 Vision_Measure"  
-這是AIGO德講作品的DEMO程式  
+這是AIGO作品的DEMO程式  
 2.py影片拆幀程式  
 cut.py是循環自動切割圖片程式  
 label.py是安裝labelImg標註圖片程式的程式  
