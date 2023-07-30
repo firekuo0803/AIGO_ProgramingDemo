@@ -1,6 +1,6 @@
-# AIGO_ProgramingDemo  
+# AIGO_2022_ProgramingDemo  
   
-## 這是AIGO作品的DEMO程式  
+## 這是2022 AIGO作品的DEMO程式  
   
 ### 2.py  
 是影片拆幀程式  
